@@ -5,6 +5,7 @@ Package.describe({
 Package.on_use(function(api) {
   api.use('factory');
   api.add_files('lib/factory-client.js', ['client', 'server']);
+  api.export('flushWrites', 'client');
 });
 
 Package.on_test(function(api) {
