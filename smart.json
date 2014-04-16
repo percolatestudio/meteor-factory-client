@@ -3,7 +3,7 @@
   "description": "Add-on package for Factory that allows unrestricted client-side creation of factory data",
   "homepage": "https://github.com/percolatestudio/meteor-factory-client",
   "author": "David Burles, Tom Coleman",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "git": "https://github.com/percolatestudio/meteor-factory-client.git",
   "packages": {
     "factory": "0.3.3"
